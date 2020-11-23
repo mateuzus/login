@@ -128,8 +128,9 @@ form.sign-in-form {
 }
 
 .social-icon:hover {
-  color: #27c500;
+  color: white;
   border-color: #27c500;
+  background-color: #27c500;
 }
 
 .btn {
